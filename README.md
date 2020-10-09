@@ -31,4 +31,4 @@ The project takes a number of vertices, then takes x and y of the each point and
 
 
 
-![image](https://user-images.githubusercontent.com/40796923/95569260-fda22480-0a2d-11eb-9da9-88c9ad4ff505.png)
+![image](https://user-images.githubusercontent.com/40796923/95571091-9043c300-0a30-11eb-9aea-155a54f34f29.png)
